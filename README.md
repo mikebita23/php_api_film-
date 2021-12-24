@@ -4,7 +4,7 @@
 
 ### Installation
 
-#### Le fichier de configuration pour accéder à aux SGBD(système de gestion de bases de données relationnelles) MySQL se trouve ici: https://
+#### Le fichier de configuration pour accéder à aux SGBD(système de gestion de bases de données relationnelles) MySQL se trouve ici: https://github.com/mikebita23/php_api_film-/blob/main/config/database.php
 
 #### Configurer selon les configurations de votre base de données avec l'utilisateur, le mot de passe, le nom de la base de donnée, les ports.
 
